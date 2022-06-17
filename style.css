@@ -2,13 +2,19 @@ body{
 	color: #444;
 	background-color: #EAEAEA;
 	
-	margin: 40px auto;
-	padding: 0 10px;
-	max-width: 650px;
+	margin: 1em auto;
+	padding: 0 .63em;
+	max-width: 40em;
 	
+	font:1.2em/1.62 sans-serif;
 	font-size: 16px;
 	line-height: 1.6;	
 }
 h1,h2,h3{
 	line-height: 1.2;
+}
+@media print{
+	body{
+		max-width:none
+	}
 }
