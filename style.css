@@ -1,15 +1,13 @@
 @media (prefers-color-scheme: dark){
 	body {color:#F3F2F7;background:#171C26}
 }
+
 @media print{
 	body{
 		max-width:none
 	}
 }
 body{
-/*	color: #444;
-	background-color: #EAEAEA;*/
-	
 	margin: 1em auto;
 	padding: 0 .63em;
 	max-width: 40em;
