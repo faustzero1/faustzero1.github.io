@@ -1,9 +1,9 @@
 /*SPDX-License-Identifier: AGPL-3.0*/
 @media (prefers-color-scheme: dark){
-	body {color:#EEEEEE;background:#1C1B22}
-}
-@media (prefers-color-scheme: light){
-	body {color:#5B4636;background:#F4ECD8}
+	body {color:#fff;background:#000}
+	a:link {color:#cdf}
+	a:hover, a:visited:hover {color:#def}
+	a:visited {color:#dcf}
 }
 @media print{
 	body{
@@ -12,12 +12,9 @@
 }
 body{
 	margin: 1em auto;
-	padding: 0 .63em;
+	padding: 0 .62em;
 	max-width: 40em;
-	
-	font:1.2em/1.62 sans-serif;
-	font-size: 16px;
-	line-height: 1.6;	
+	font: 1.2em/1.62 sans-serif;
 }
 h1,h2,h3{
 	line-height: 1.2;
