@@ -1,11 +1,11 @@
                                                 FAUSTZERO1.CODEBERG.PAGE LICENSE
                                                     Version 1, 2022-06-17
 ############################################################################################################################
-Copyright (C) 2022 FaustZero1.
+Copyright (C) 2022 Fauzi Ramadaniza.
 Everyone is permitted to copy and distribute verbatim copies of this license document, but changing it is not allowed.
 ############################################################################################################################
-All licenses that use in this repo will be placed in /LICENSES/ folder
-Here the list of all licenses, that has been used in this repo:
+All plain text license files that use in this repositorywill be placed in /LICENSES/ folder
+Here the list of all licenses, that has been used in this repository:
 ----------------------------------------------------------------------------------------------------------------------------
                         NAME                           |       LOCATION         |               ORIGIN SOURCE
 GNU AFFERO GENERAL PUBLIC LICENSE Version 3 (AGPL 3.0) | /LICENSES/AGPL-3.0.txt |  https://www.gnu.org/licenses/agpl-3.0.txt
