@@ -9,9 +9,9 @@ Created by romanzolotarev.
 
 How it works is just like a sandwich, there is:
 
-1. "_header.html" file => Top part of the sandwich
-2. "<your_content.md>" file => Middle part of the sandwich
-3. "_footer.html" file => Bottom part of the sandwich
+1. "_header.html" file 			=> Top part of the sandwich
+2. "2022-09-12-your_content.md" file 	=> Middle part of the sandwich
+3. "_footer.html" file 			=> Bottom part of the sandwich
 
 ---
 
