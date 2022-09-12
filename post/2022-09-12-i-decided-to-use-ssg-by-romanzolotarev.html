@@ -44,7 +44,7 @@
 	    background: #111;
 	}
         </style>
-        <title>I decided to use ssg by romanzolotarev &mdash; FaustZero1 | The Legacy</title>
+        <title>I decided to use ssg by romanzolotarev #NOTFINISHEDYET &mdash; FaustZero1 | The Legacy</title>
     </head>
     <body>
         <div class="content">
@@ -62,14 +62,16 @@
             </header>
             <hr><hr>
             <main>
-<h1 id="i-decided-to-use-ssg-by-romanzolotarev">I decided to use ssg by romanzolotarev</h1>
+<h1 id="i-decided-to-use-ssg-by-romanzolotarev-notfinishedyet">I decided to use ssg by romanzolotarev #NOTFINISHEDYET</h1>
 
 <p>Date published: 2022-09-12</p>
 
 <hr/>
 
-<p><strong>ssg</strong> is a simple static site generator written in POSIX shell. <br>
-Created by romanzolotarev.</p>
+<h2 id="what-is-ssg">What is <em>ssg</em></h2>
+
+<p><strong>ssg</strong> is a simple Static Site Generator written in POSIX shell. <br>
+Created by Roman Zolotarev.</p>
 
 <p>How it works is just like a sandwich, there is:</p>
 
@@ -78,6 +80,61 @@ Created by romanzolotarev.</p>
 <li>&#8220;2022-09-12-your_content.md&#8221; file    =&#62; Middle part of the sandwich</li>
 <li>&#8220;_footer.html&#8221; file          =&#62; Bottom part of the sandwich</li>
 </ol>
+
+<hr/>
+
+<h2 id="guide-how-to-install-and-use-ssg">Guide how to install and use <em>ssg</em></h2>
+
+<h3 id="download-install-ssg-markdown.pl">Download &#38; install <em>ssg</em> &#38; <em>Markdown.pl</em></h3>
+
+<p>We will install <strong>ssg</strong> and <strong>Markdown.pl</strong> at <code>&#47;home&#47;$USER&#47;.local&#47;bin&#47;&#60;here&#62;</code> <br> 
+Please make sure that directory is on your $PATH.</p>
+
+<p>Install it with this command:</p>
+
+<pre><code>$ curl -s https:&#47;&#47;rgz.ee&#47;bin&#47;ssg &#62; &#47;home&#47;$USER&#47;.local&#47;bin&#47;ssg &#60;br&#62;
+$ curl -s https:&#47;&#47;rgz.ee&#47;bin&#47;Markdown.pl &#62; &#47;home&#47;$USER&#47;.local&#47;bin&#47;Markdown.pl
+</code></pre>
+
+<p>Allow file execution permission for those files:</p>
+
+<pre><code>$ chmod +x &#47;home&#47;$USER&#47;.local&#47;bin&#47;ssg &#60;br&#62;
+$ chmod +x &#47;home&#47;$USER&#47;.local&#47;bin&#47;Markdown.pl
+</code></pre>
+
+<h3 id="usage">Usage</h3>
+
+<p>The basic command usage are ```ssg &#47;src &#47;dst &#8216;Website | Title&#8217; &#8216;https:&#47;&#47;yourwebsiteurl.org&#8217; <br>
+This is how I use <em>ssg</em>, for example we are going to make:</p>
+
+<ul>
+<li>Source directory at pages&#47;_rawdata&#47;</li>
+<li>Destination directory at pages&#47;</li>
+<li>The content of the website is &#8216;# Hello world&#8217;</li>
+<li>The markdown name is 2022-09-first-post.md</li>
+<li>The website title is &#8216;Harambe | Cool&#8217;</li>
+</ul>
+
+<p>So, the commands is:</p>
+
+<pre><code>$ mkdir pages 
+$ cd pages
+[pages] $ 
+[pages] $ mkdir _rawdata&#47;
+[pages] $ echo &#39;&#60;html&#62;&#60;title&#62;&#60;&#47;title&#62;&#60;body&#62;&#39; &#62; _rawdata&#47;_header.md
+[pages] $ echo &#39;&#60;&#47;body&#62;&#60;&#47;html&#62;&#39; &#62; _rawdata&#47;_footer.md
+[pages] $ echo &#39;# hello world!&#39; &#62; _rawdata&#47;2022-09-12-first-post.md
+[pages] $ ssg _rawdata&#47; . &#39;Harambe | Cool&#39; &#39;https:&#47;&#47;harambeiscool.org&#39;
+.&#47;2022-09-12-first-post.md
+[ssg] 1 files, 1 url
+</code></pre>
+
+<h3 id="test-your-website">Test your website</h3>
+
+<p>Open the html file has been created on your browser</p>
+
+<pre><code>[pages] $ firefox 2022-09-12-first-post.md
+</code></pre>
 
 <hr/>
 
