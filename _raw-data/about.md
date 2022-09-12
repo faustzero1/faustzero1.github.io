@@ -21,8 +21,8 @@ This website are static website under HTML with only few styling that apply **UX
 
 * No nonsense JavaScript. <br>
 * No nonsense CDN. <br>
-* No nonsense **Framework** <br>
-* Just pure HTML which mostly is only less than 30Kb <br>
+* No nonsense **Framework**. <br>
+* Just pure HTML which mostly is only less than 30Kb. <br>
 
 The styling part are attached under the ```<head>``` tags, which make this website keep on its style by just only .html <br>
 
