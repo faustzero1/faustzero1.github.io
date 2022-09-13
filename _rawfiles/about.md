@@ -6,6 +6,8 @@
 |
 <a href="./about.html">About</a>
 |
+<a href="./contact.html">Contact</a>
+|
 </nav>
 </header>
 <hr><hr>
@@ -64,16 +66,3 @@ Plus, If I can deliver really good content using Codeberg as domain it will enco
 | Browser (2)          | **Ungoogled Chromium**   | <https://github.com/ungoogled-software/ungoogled-chromium> |
 | Browser (3)          | **surf**                 | <https://surf.suckless.org/>                               |
 | SLOC Counter         | **scc**                  | <https://github.com/boyter/scc>                            |
-
-<!-- Your Content End After This Line -->
-</main>
-<hr><hr>
-<footer>
-<a href="https://faustzero1.codeberg.page">FaustZero1 | The Legacy</a> <br>
-<p>Copyright (C) 2022 Fauzi Ramadaniza.</p>
-<nav>
-|
-<a href="./contact.html">Contact</a>
-|
-</nav>
-</footer>

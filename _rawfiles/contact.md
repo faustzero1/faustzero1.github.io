@@ -6,6 +6,8 @@
 |
 <a href="./about.html">About</a>
 |
+<a href="./contact.html">Contact</a>
+|
 </nav>
 </header>
 <hr><hr>
@@ -24,17 +26,3 @@
 ### Telegram:
 
 [@faustzero1](https://t.me/faustzero1) 
-
-
-<!-- Your Content End After This Line -->
-</main>
-<hr><hr>
-<footer>
-<a href="https://faustzero1.codeberg.page">FaustZero1 | The Legacy</a> <br>
-<p>Copyright (C) 2022 Fauzi Ramadaniza.</p>
-<nav>
-|
-<a href="./contact.html">Contact</a>
-|
-</nav>
-</footer>

@@ -6,6 +6,8 @@
 |
 <a href="../about.html">About</a>
 |
+<a href="../contact.html">Contact</a>
+|
 </nav>
 </header>
 <hr><hr>
@@ -91,17 +93,3 @@ Open the html file has been created on your browser
 Reference: <br>
 [Romanzolotarev Blog](https://romanzolotarev.com/ssg.html) <br>
 [Wolfgangs Channel (Youtube)](https://www.youtube.com/watch?v=N_ttw2Dihn8)
-
-
-<!-- Your Content End After This Line -->
-</main>
-<hr><hr>
-<footer>
-<a href="https://faustzero1.codeberg.page">FaustZero1 | The Legacy</a> <br>
-<p>Copyright (C) 2022 Fauzi Ramadaniza.</p>
-<nav>
-|
-<a href="../contact.html">Contact</a>
-|
-</nav>
-</footer>
