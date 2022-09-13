@@ -1,13 +1,11 @@
 <nav>
-|
 <a href="./index.html">Home</a>
 |
 <a href="./post.html">Post</a>
 |
-<a href="./about.html">About</a>
-|
 <a href="./contact.html">Contact</a>
 |
+<a href="./about.html">About</a>
 </nav>
 </header>
 <hr><hr>
