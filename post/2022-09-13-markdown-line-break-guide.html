@@ -44,7 +44,7 @@
 	    background: #111;
 	}
         </style>
-        <title>Hello there&#8230; &mdash; FaustZero1 | The Legacy</title>
+        <title>Markdown Line Break Guide &mdash; FaustZero1 | The Legacy</title>
     </head>
     <body>
         <div class="content">
@@ -52,11 +52,11 @@
                 <h1>FaustZero1 | The Legacy</h1>
 <nav>
 |
-<a href="./index.html">Home</a>
+<a href="../index.html">Home</a>
 |
-<a href="./post.html">Post</a>
+<a href="../post.html">Post</a>
 |
-<a href="./about.html">About</a>
+<a href="../about.html">About</a>
 |
 </nav>
 
@@ -65,15 +65,55 @@
 <main>
 <!-- Your Content Start After This Line --></p>
 
-<h1 id="hello-there">Hello there&#8230;</h1>
+<h1 id="markdown-line-break-guide">Markdown Line Break Guide</h1>
 
-<h2 id="new-posts">New posts:</h2>
+<p>Date published: 2022-09-13</p>
 
-<ul>
-<li>2022-09-13 <a href="./post/2022-09-13-markdown-line-break-guide.html">Markdown Line Break Guide</a><br/></li>
-<li>2022-09-12 <a href="./post/2022-09-12-i-decided-to-use-ssg-by-romanzolotarev.html">I decided to use ssg by romanzolotarev</a><br/></li>
-<li>2022-09-11 <a href="./post/2022-09-11-awaken.html">Awaken</a><br/></li>
-</ul>
+<hr/>
+
+<h2 id="no-line-break">No Line Break</h2>
+
+<pre><code>Hello(&#60;-- No Spaces)
+World
+</code></pre>
+
+<p>Result:<br/>
+Hello
+World</p>
+
+<h2 id="line-break-using-two-spaces">Line Break (using Two Spaces)</h2>
+
+<pre><code>Hello  (&#60;-- Two Spaces)
+World
+</code></pre>
+
+<p>Result:<br/>
+Hello<br/>
+World  </p>
+
+<hr/>
+
+<h2 id="optional-line-break-using-br-tags">[OPTIONAL] Line Break (using br tags)</h2>
+
+<pre><code>Hello &#60;br&#62;
+World
+</code></pre>
+
+<p>Result:<br/>
+Hello <br>
+World</p>
+
+<h2 id="not-a-line-break">[NOT] a Line Break</h2>
+
+<pre><code>Hello
+
+World
+</code></pre>
+
+<p>Result:<br/>
+Hello</p>
+
+<p>World</p>
 
 <!-- Your Content End After This Line -->
 
@@ -84,7 +124,7 @@
 <p>Copyright &#169; 2022 Fauzi Ramadaniza.</p>
 <nav>
 |
-<a href="./contact.html">Contact</a>
+<a href="../contact.html">Contact</a>
 |
 </nav>
 </footer></p>
