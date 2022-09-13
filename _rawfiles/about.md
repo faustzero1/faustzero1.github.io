@@ -56,7 +56,7 @@ Plus, If I can deliver really good content using Codeberg as domain it will enco
 | What is my?          | Name                     | Source                                                     |
 | -----------------    | ------------------------ | ---------------------------------------------------------- |
 | Operating System     | **Void Linux**           | <https://voidlinux.org/>                                   |
-| Window Manager       | **dwm**                  | <https://dwm.suckless.org/                                 |
+| Window Manager       | **dwm**                  | <https://dwm.suckless.org/>                                |
 | Terminal Emulator    | **st**                   | <https://st.suckless.org/>                                 |
 | Text Editor	       | **Vis**                  | <https://github.com/martanne/vis>                          |
 | Terminal Multiplexer | **tmux**                 | <https://github.com/tmux/tmux>                             |
