@@ -23,6 +23,7 @@ This section contain about all of my posts that is Blog, Resources, Notes, Lab E
 
 ## 2022
 
+2022-09-14 [My Resources Reference](./post/2022-09-14-my-resources-reference.html)  
 2022-09-13 [Keith Power - We All Lift Together (from Warframe) Lyrics](./post/2022-09-13-keith-power-we-all-lift-together-lyrics.html)  
 2022-09-13 [My Hardstyle music collections](./post/2022-09-13-my-hardstyle-music-collections.html)  
 2022-09-13 [Markdown Line Break Guide](./post/2022-09-13-markdown-line-break-guide.html)  
