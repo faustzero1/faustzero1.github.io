@@ -43,7 +43,7 @@ This website are static website under HTML with only few styling that apply **UX
 
 The styling part are attached under the ```<head>``` tags, which make this website keep on its style by just only .html  
 
-* Save this any page as html | ```CTRL + Shift + S``` in most browser  
+* Save this any page as html | ```CTRL + S``` in most browser  
 * Open on your local machine | the result will be the same you open it online  
 * Enjoy  
 
