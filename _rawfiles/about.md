@@ -6,6 +6,8 @@
 <a href="./contact.html">Contact</a>
 |
 <a href="./about.html">About</a>
+|
+<a href="./project.html">Project</a>
 </nav>
 </header>
 <hr><hr>

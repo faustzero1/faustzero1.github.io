@@ -6,6 +6,7 @@ http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
 xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url><loc>https://faustzero1.codeberg.page/contact.html</loc><lastmod>2022-09-14</lastmod><priority>1.0</priority></url>
 <url><loc>https://faustzero1.codeberg.page/post.html</loc><lastmod>2022-09-14</lastmod><priority>1.0</priority></url>
+<url><loc>https://faustzero1.codeberg.page/project.html</loc><lastmod>2022-09-14</lastmod><priority>1.0</priority></url>
 <url><loc>https://faustzero1.codeberg.page/about.html</loc><lastmod>2022-09-14</lastmod><priority>1.0</priority></url>
 <url><loc>https://faustzero1.codeberg.page/index.html</loc><lastmod>2022-09-14</lastmod><priority>1.0</priority></url>
 <url><loc>https://faustzero1.codeberg.page/post/2022-09-11-awaken.html</loc><lastmod>2022-09-14</lastmod><priority>1.0</priority></url>
