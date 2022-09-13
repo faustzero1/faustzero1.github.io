@@ -20,8 +20,7 @@
 + 2022-09-13 [My Hardstyle music collections](./post/2022-09-13-my-hardstyle-music-collections.html)  
 + 2022-09-13 [Markdown Line Break Guide](./post/2022-09-13-markdown-line-break-guide.html)  
 + 2022-09-12 [I decided to use ssg by romanzolotarev](./post/2022-09-12-i-decided-to-use-ssg-by-romanzolotarev.html)  
-
-<strong>...See more posts</strong>
+[**...See more posts**](./post.html)
 
 <!-- Your Content End After This Line -->
 </main>
