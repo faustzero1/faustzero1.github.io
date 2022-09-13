@@ -19,31 +19,31 @@
 
 ## About me
 
-I am an Engineer Student & also a Developer who try to involve in User Experience. <br>
+I am an Engineer Student & also a Developer who try to involve in User Experience.  
 Additionally, I rather call myself a "Voyager" rather than a "Hacker", a man who try to explore the "sub-way" of this world.
 
-I Love Art, Technology, and Efficiency. <br>
-I am Also Still Learning.
+I Love Art, Technology, and Efficiency.  
+I am Also Still Learning.  
 
 ## About this website
 
-This is my first webpage, write in plain HTML <br>
+This is my first webpage, write in plain HTML  
 This website are originally hosted at [Codeberg](https://codeberg.org) using Codeberg pages (similar feature like github pages or gitlab pages). <br>
-Please visit the [Origin Version](https://faustzero1.codeberg.page) for the latest update of this website.
+Please visit the [Origin Version](https://faustzero1.codeberg.page) for the latest update of this website.  
 
-I do a lot of my effort to make this website *small* (in Computing Unit) but also *reliable*. <br>
-This website are static website under HTML with only few styling that apply **UX First**. <br>
+I do a lot of my effort to make this website *small* (in Computing Unit) but also *reliable*.  
+This website are static website under HTML with only few styling that apply **UX First**.  
 
-* No nonsense JavaScript. <br>
-* No nonsense CDN. <br>
-* No nonsense **Framework**. <br>
-* Just pure HTML which mostly is only less than 30Kb. <br>
+* No nonsense JavaScript.  
+* No nonsense CDN.  
+* No nonsense **Framework**.  
+* Just pure HTML which mostly is only less than 30Kb.  
 
-The styling part are attached under the ```<head>``` tags, which make this website keep on its style by just only .html <br>
+The styling part are attached under the ```<head>``` tags, which make this website keep on its style by just only .html  
 
-* Simply try save any pages in this website as html, <br> 
-* Open it offline on your machine, <br>
-* The result will be the same as you view on online session (maybe except for the future asset, but may not often).
+* Save this any page as html | ```CTRL + Shift + S``` in most browser  
+* Open on your local machine | the result will be the same you open it online  
+* Enjoy  
 
 FYI, after I thought, I don't have plan to buying personal domain for my personal webpage. Yeah I know that "faustzero1.codeberg.page" is a long URL, But in the end my web visitors didn't really care about that. I believe they care more about what they need when visiting here. Aside from that, I can't always (Eternally) maintain of my website, maybe one day i will die alone without anyone knowing (may Allah know best).
 
@@ -53,14 +53,17 @@ Plus, If I can deliver really good content using Codeberg as domain it will enco
 
 ## Software that I use
 
-| Date              | Description              |
-| ----------------- |:------------------------:|
-| Operating System  | **Void Linux**           |
-| Window Manager    | **dwm**                  |
-| Terminal Emulator | **st**                   |
-| Text Editor	    | **Vis**                  |
-| Browser	        | **Librewolf** & **Surf** |
-
+| What is my?          | Name                     | Source                                                     |
+| -----------------    | ------------------------ | ---------------------------------------------------------- |
+| Operating System     | **Void Linux**           | <https://voidlinux.org/>                                   |
+| Window Manager       | **dwm**                  | <https://dwm.suckless.org/                                 |
+| Terminal Emulator    | **st**                   | <https://st.suckless.org/>                                 |
+| Text Editor	       | **Vis**                  | <https://github.com/martanne/vis>                          |
+| Terminal Multiplexer | **tmux**                 | <https://github.com/tmux/tmux>                             |
+| Browser (1)          | **Librewolf**            | <https://librewolf.net/>                                   |
+| Browser (2)          | **Ungoogled Chromium**   | <https://github.com/ungoogled-software/ungoogled-chromium> |
+| Browser (3)          | **surf**                 | <https://surf.suckless.org/>                               |
+| SLOC Counter         | **scc**                  | <https://github.com/boyter/scc>                            |
 
 <!-- Your Content End After This Line -->
 </main>
