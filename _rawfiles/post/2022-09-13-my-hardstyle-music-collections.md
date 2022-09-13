@@ -21,7 +21,7 @@ Date published: 2022-09-13
 
 ## Hardstyle
 
-Hardstyle are the genre music I recently like it, when you hear it you will feel like a pumped and feel the joy of the **"TRY HARDER"**  
+*Hardstyle* are the genre music I recently like it, when you hear it you will feel like a pumped and feel the joy of the **"TRY HARDER"**  
 Mostly I got that from Youtube (you can use [Invidious](invidious.sethforprivacy.com/) for the mitigation)  
 So, checkout my *Hardstyle* music collections  
 
