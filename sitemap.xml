@@ -4,10 +4,10 @@ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
 xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-<url><loc>https://faustzero1.codeberg.page/contact.html</loc><lastmod>2022-09-12</lastmod><priority>1.0</priority></url>
-<url><loc>https://faustzero1.codeberg.page/post.html</loc><lastmod>2022-09-12</lastmod><priority>1.0</priority></url>
-<url><loc>https://faustzero1.codeberg.page/about.html</loc><lastmod>2022-09-12</lastmod><priority>1.0</priority></url>
-<url><loc>https://faustzero1.codeberg.page/index.html</loc><lastmod>2022-09-12</lastmod><priority>1.0</priority></url>
-<url><loc>https://faustzero1.codeberg.page/post/2022-09-11-awaken.html</loc><lastmod>2022-09-12</lastmod><priority>1.0</priority></url>
-<url><loc>https://faustzero1.codeberg.page/post/2022-09-12-i-decided-to-use-ssg-by-romanzolotarev.html</loc><lastmod>2022-09-12</lastmod><priority>1.0</priority></url>
+<url><loc>https://faustzero1.codeberg.page/contact.html</loc><lastmod>2022-09-13</lastmod><priority>1.0</priority></url>
+<url><loc>https://faustzero1.codeberg.page/post.html</loc><lastmod>2022-09-13</lastmod><priority>1.0</priority></url>
+<url><loc>https://faustzero1.codeberg.page/about.html</loc><lastmod>2022-09-13</lastmod><priority>1.0</priority></url>
+<url><loc>https://faustzero1.codeberg.page/index.html</loc><lastmod>2022-09-13</lastmod><priority>1.0</priority></url>
+<url><loc>https://faustzero1.codeberg.page/post/2022-09-11-awaken.html</loc><lastmod>2022-09-13</lastmod><priority>1.0</priority></url>
+<url><loc>https://faustzero1.codeberg.page/post/2022-09-12-i-decided-to-use-ssg-by-romanzolotarev.html</loc><lastmod>2022-09-13</lastmod><priority>1.0</priority></url>
 </urlset>

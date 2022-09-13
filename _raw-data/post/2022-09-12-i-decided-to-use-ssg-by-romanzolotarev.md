@@ -1,3 +1,18 @@
+<nav>
+|
+<a href="../index.html">Home</a>
+|
+<a href="../post.html">Post</a>
+|
+<a href="../about.html">About</a>
+|
+</nav>
+</header>
+<hr><hr>
+<main>
+<!-- Your Content Start After This Line -->
+
+
 # I decided to use ssg by romanzolotarev #NOTFINISHEDYET
 
 Date published: 2022-09-12
@@ -76,3 +91,17 @@ Open the html file has been created on your browser
 Reference: <br>
 [Romanzolotarev Blog](https://romanzolotarev.com/ssg.html) <br>
 [Wolfgangs Channel (Youtube)](https://www.youtube.com/watch?v=N_ttw2Dihn8)
+
+
+<!-- Your Content End After This Line -->
+</main>
+<hr><hr>
+<footer>
+<a href="https://faustzero1.codeberg.page">FaustZero1 | The Legacy</a> <br>
+<p>Copyright (C) 2022 Fauzi Ramadaniza.</p>
+<nav>
+|
+<a href="../contact.html">Contact</a>
+|
+</nav>
+</footer>
