@@ -33,7 +33,7 @@ Date published: 2022-09-14
 
 * Black and White are contrast, the color that just work.  
 * Easy to use, just flip the color to make it contrast.  
-* Accessbility, I know there's so many people out there who use display monitor that doesn't have (near) perfect color accuracy, however black and white contrast can still just work on those.  
+* Accessibility, I know there's so many people out there who use display monitor that doesn't have (near) perfect color accuracy, however black and white contrast can still just work on those.  
 
 ### My personal color livery
 
