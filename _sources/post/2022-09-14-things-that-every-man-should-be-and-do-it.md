@@ -33,7 +33,7 @@ those type of NPC are the **Misguided** type of people build for disturb your li
 
 ### Build your own 'Legacy'
 Don't waste your life chase things that is *Temporary*.  
-Or doing things just impress other people.  
+Or doing things just to impress other people.  
 Chanse things that would become the benefit into *Eternity*  
 Find purpose, chase **Eternity**, Impress yourself and Impress **GOD**.  
 
