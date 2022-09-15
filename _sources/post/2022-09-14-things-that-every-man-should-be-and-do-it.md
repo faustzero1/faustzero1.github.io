@@ -38,4 +38,4 @@ Chanse things that would become the benefit into *Eternity*
 Find purpose, chase **Eternity**, Impress yourself and Impress **GOD**.  
 
 ### You should to Know  
-You should always *Know*, not *Follow*, **Know**.  
+You should to always *Know*, not *Follow*, **Know**.  
