@@ -39,3 +39,11 @@ Find purpose, chase **Eternity**, Impress yourself and Impress **GOD**.
 
 ### You should to Know  
 You should to always *Know*, not *Follow*, **Know**.  
+
+### Control your anger   
+Anger are one of saiyan power, it's always come with destruction.  
+Don't let anger use you, use that anger.  
+Use it to destroy your the chains that prevent you from achieving more power.  
+Get mad, get insanely mad, don't get mad to quit, get mad to keep going.  
+[//]: # (BECOME SUPER SAIYAN!!!)
+
