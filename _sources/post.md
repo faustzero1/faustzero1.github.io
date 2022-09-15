@@ -5,9 +5,9 @@
 |
 <a href="./project.html">Project</a>
 |
-<a href="./about.html">About</a>
-|
 <a href="./contact.html">Contact</a>
+|
+<a href="./about.html">About</a>
 </nav>
 </header>
 <hr><hr>
