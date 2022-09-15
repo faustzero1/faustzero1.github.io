@@ -24,6 +24,7 @@ This section contain about all of my posts that is Blog, Resources, Notes, Lab E
 
 ## 2022
 
+2022-09-15 [ThinkPad Buyer Guide](./post/2022-09-15-thinkpad-buyer-guide.html)
 2022-09-14 [Why this website is White and Black and Very Dark Grey](./post/2022-09-14-why-this-website-is-white-and-black-and-very-dark-grey.html)  
 2022-09-14 [Things that every man should be and do it](./post/2022-09-14-things-that-every-man-should-be-and-do-it.html)  
 2022-09-14 [My Resources Reference](./post/2022-09-14-my-resources-reference.html)  
