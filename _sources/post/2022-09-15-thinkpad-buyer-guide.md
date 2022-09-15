@@ -138,4 +138,8 @@ Some notes:
 * <https://www.thinkwiki.org/wiki/ThinkWiki>  
 * <https://www.bobble.tech/free-stuff/used-thinkpad-buyers-guide>
 * <https://boards.4channel.org/g/thread/88542426/tpg-thinkpad-general>
+* <https://web.archive.org/web/20191208203404/https://contemporary-dad.com/the-best-laptop-for-your-family/>
 * <https://solar.lowtechmagazine.com/2020/12/how-and-why-i-stopped-buying-new-laptops.html>
+* <https://telegra.ph/Panduan-Singkat-Membeli-ThinkPad-Bekas-12-16>
+* <https://m.kaskus.co.id/thread/58bfc3dbde2cf23c7e8b4570/ltltlt-ibm-lenovo-thinkpad-community-gtgtgt---part-3/>
+* <https://teddit.net/r/thinkpad>
