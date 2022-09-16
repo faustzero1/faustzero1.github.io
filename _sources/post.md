@@ -24,7 +24,7 @@ This section contain about all of my posts that is Blog, Resources, Notes, Lab E
 
 ## 2022
 
-2022-09-16 [Mick Gordon (feat. Tex Perkins) - The Partisan Lyrics](./post/2022-09-16-mick-godon-feat-tex-perkins-the-partisan-lyrics.html)   
+2022-09-16 [Mick Gordon (feat. Tex Perkins) - The Partisan Lyrics](./post/2022-09-16-mick-gordon-feat-tex-perkins-the-partisan-lyrics.html)   
 2022-09-16 [Ted Poley - Escape From the City (from Sonic Adventure 2) Lyrics](./post/2022-09-16-ted-poley-escape-from-the-city-lyrics.html)  
 2022-09-15 [ThinkPad Buyer Guide](./post/2022-09-15-thinkpad-buyer-guide.html)  
 2022-09-14 [Why this website is White and Black and Very Dark Grey](./post/2022-09-14-why-this-website-is-white-and-black-and-very-dark-grey.html)  
