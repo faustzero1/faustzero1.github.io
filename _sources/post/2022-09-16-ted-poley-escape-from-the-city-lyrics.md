@@ -18,7 +18,7 @@
 
 # Ted Poley - Escape From the City (from Sonic Adventure 2) Lyrics
 
-Date published: 2022-09-13
+Date published: 2022-09-16
 
 ---
 
