@@ -20,7 +20,7 @@
 
 ## New posts:
 
+<span>+ 2022-09-16</span> [Mick Gordon (feat. Tex Perkins) - The Partisan Lyrics](./post/2022-09-16-mick-godon-feat-tex-perkins-the-partisan-lyrics.html)  
 <span>+ 2022-09-16</span> [Ted Poley - Escape From the City (from Sonic Adventure 2) Lyrics](./post/2022-09-16-ted-poley-escape-from-the-city-lyrics.html)  
 <span>+ 2022-09-15</span> [ThinkPad Buyer Guide](./post/2022-09-15-thinkpad-buyer-guide.html)  
-<span>+ 2022-09-14</span> [Why this website is White and Black and Very Dark Grey](./post/2022-09-14-why-this-website-is-white-and-black-and-very-dark-grey.html)  
 [**...See more posts**](./post.html)
