@@ -56,16 +56,17 @@ Plus, If I can deliver really good content using Codeberg as domain it will enco
 
 ## Software that I use
 
-| What is my?          | Name                     		| Source                                                     |
-| -------------------- | -------------------------------------- | ---------------------------------------------------------- |
-| Operating System     | **Void Linux**           		| <https://voidlinux.org/>                                   |
-| Window Manager       | **dwm**                  		| <https://dwm.suckless.org/>                                |
-| Terminal Emulator    | **st**                   		| <https://st.suckless.org/>                                 |
-| Status Monitor       | **slstatus**				| <https://tools.suckless.org/slstatus/>		     |
-| Text Editor	       | **Vis**                          	| <https://github.com/martanne/vis>                          |
-| Terminal Multiplexer | **tmux**                         	| <https://github.com/tmux/tmux>                             |
-| Browser (1)          | **Librewolf** (fork of Firefox)  	| <https://librewolf.net/>                                   |
-| Browser (2)          | **Ungoogled Chromium**   		| <https://github.com/ungoogled-software/ungoogled-chromium> |
-| Browser (3)          | **surf**                 		| <https://surf.suckless.org/>                               |
-| Search Engine        | **Disroot SearXNG**      		| <https://apps.disroot.org/>                                |
-| SLOC Counter         | **scc**                  		| <https://github.com/boyter/scc>                            |
+| What is my?            | Name                     		| Source                                                     |
+| --------------------   | ------------------------------------ | ---------------------------------------------------------- |
+| Operating System       | **Void Linux**           		| <https://voidlinux.org/>                                   |
+| Window Manager         | **dwm**                  		| <https://dwm.suckless.org/>                                |
+| Terminal Emulator      | **st**                   		| <https://st.suckless.org/>                                 |
+| Status Monitor         | **slstatus**				| <https://tools.suckless.org/slstatus/>		     |
+| Text Editor	         | **Vis**                          	| <https://github.com/martanne/vis>                          |
+| Terminal Multiplexer   | **tmux**                         	| <https://github.com/tmux/tmux>                             |
+| Browser (1)            | **Librewolf** (fork of Firefox)  	| <https://librewolf.net/>                                   |
+| Browser (2)            | **Ungoogled Chromium**   		| <https://github.com/ungoogled-software/ungoogled-chromium> |
+| Browser (3)            | **surf**                 		| <https://surf.suckless.org/>                               |
+| Search Engine          | **Disroot SearXNG**      		| <https://apps.disroot.org/>                                |
+| SLOC Counter           | **scc**                  		| <https://github.com/boyter/scc>                            |
+| ASCII Image Processing | **jp2a**                  		| <https://github.com/Talinx/jp2a>                           |
