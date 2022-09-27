@@ -27,7 +27,7 @@ Date published: 2022-09-14
 ### Cool based person on the internet
 > [lukesmith.xyz](https://lukesmith.xyz "lukesmith.xyz") - LukeSmith personal website  
 > [https://distro.tube/index.html](https://distro.tube/index.html) - DistroTube website a Based Linux chad, Create some Linux / Free Software guide  
-> [mstdn.starnix.network/@nerdtronics](https://mstdn.starnix.network/@nerdtronics) - Root BSD *insert Bizzare Purple Frog here*  Based boomer, OpenBSD user.
+> [mstdn.starnix.network/@nerdtronics](https://mstdn.starnix.network/@nerdtronics) - Root BSD *insert Bizzare Purple Frog here*  Based boomer, OpenBSD user.  
 > [bandithijo.dev](https://bandithijo.dev) - BanditHijo (R)-Chive website  
 > [radhitya.my.id](https://radhitya.my.id/) - al1r4d website  
 
