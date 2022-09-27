@@ -20,13 +20,61 @@
 
 ---
 
-## About me
+## I AM and all of me
+
+### I AM
+
+ #RealLifeGamer #FullTimeSickunt #SoldierWithoutBorder
+
+### Past
+
+At some point in my live I somewhat lost contact to my fellow gamer <s>Friend's</s> Brother's,. 
+
+```
+The years went by
+And we lost sight
+Of the guys back then
+We used to rule the night
+
+And still I never will forget
+Or will regret
+Those times that we had
+
+We were the kings of night
+As we stood side by side
+We used to rock the place until the early light
+
+I remember how we sang along
+To every song
+Those times, they are gone
+
+But still, I feel
+I miss those days
+We spent together
+Yeah-yeah
+
+Sometimes I wish I could turn back time
+And be there once again
+And in my head I see the pictures
+Of how we used to be
+
+So one thing will remain
+'Cause I still love the memories of those days...
+```
+
+### Now
+
+Thanks for tragic history that is drive me further to get serious enough about my life.
+
+#### Other life
 
 I am an Engineer Student & also a Developer who try to involve in User Experience.  
 Additionally, I rather call myself a "Voyager" rather than a "Hacker", a man who try to explore the "sub-way" of this world.
 
 I Love Art, Technology, and Efficiency.  
 I am Also Still Learning.  
+Everything I got is cause by God Train and 'Focus'.
+
 
 ## About this website
 
