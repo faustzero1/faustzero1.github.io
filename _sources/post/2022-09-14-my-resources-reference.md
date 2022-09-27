@@ -26,9 +26,9 @@ Date published: 2022-09-14
 
 ### Cool based person on the internet
 > [lukesmith.xyz](https://lukesmith.xyz "lukesmith.xyz") - LukeSmith personal website  
-> [mstdn.starnix.network/@nerdtronics](https://mstdn.starnix.network/@nerdtronics) - 𝕽𝖔𝖔𝖙 BSD *insert Bizzare Purple Frog here*  
+> [mstdn.starnix.network/@nerdtronics](https://mstdn.starnix.network/@nerdtronics) - Root BSD *insert Bizzare Purple Frog here*  Based boomer, OpenBSD user.
 > [bandithijo.dev](https://bandithijo.dev) - BanditHijo (R)-Chive website  
-> (radhitya.my.id)(https://radhitya.my.id/) - al1r4d website  
+> [radhitya.my.id](https://radhitya.my.id/) - al1r4d website  
 
 ### Others website or blog
 > [solar.lowtechmagazines.com](https://solar.lowtechmagazine.com/) - A website that use lowtech yet efficient technology website, is a solar-powered websitewhich means it sometimes goes offline   
@@ -49,11 +49,12 @@ Date published: 2022-09-14
 ## Youtube Channel of 
 
 ### Cool based person on the internet
-> [yewtu.be/c/LukeSmithxyz](https://yewtu.be/c/LukeSmithxyz/) - <s>Runescape Default Character</s> Based tech boomer that say "ok" so many times, use ThinkPad X200, T420, X60, X220 (mainly) with dwm, creator of [LARBS](https://github.com/LukeSmithxyz/LARBS), linguistic sometime, "what's up guys, vim diesel here".  
-> [yewtu.be/c/MentalOutlaw](https://yewtu.be/c/MentalOutlaw/) - <s>Luke Smith Deepfake</s> <s>aka Jayson Tatum</s> One of few least tech news youtuber that you can trust, Gentoo user, anti-christ hater.  
-> [yewtu.be/c/DistroTube](https://yewtu.be/c/DistroTube) - Based boomer too. do many Linux / Free Software guide.  
-> [yewtu.be/channel/UCbpe1SYzZKG4RswEnxxSRZQ](https://yewtu.be/channel/UCbpe1SYzZKG4RswEnxxSRZQ) - RootBSD ChannelBased boomer, OpenBSD user.  
-> [yewtu.be/c/ThePrimeagen](https://yewtu.be/c/ThePrimeagen) - ThePrimeAgen, Die-hard vim user.  
+> [yewtu.be/c/LukeSmithxyz](https://yewtu.be/c/LukeSmithxyz/) - Luke Smith <s>Runescape Default Character</s> Based tech boomer that say "ok" so many times, use ThinkPad X200, T420, X60, X220 (mainly) with dwm, creator of [LARBS](https://github.com/LukeSmithxyz/LARBS), linguistic sometime, "what's up guys, vim diesel here".  
+> [yewtu.be/c/MentalOutlaw](https://yewtu.be/c/MentalOutlaw/) - Mental Outlaw <s>aka Luke Smith Deepfake</s> <s>aka Jayson Tatum</s> One of few least tech news youtuber that you can trust, Gentoo user, anti-christ hater.  
+> [yewtu.be/c/DistroTube](https://yewtu.be/c/DistroTube) - Distro tube Based boomer too. do many Linux / Free Software guide.  
+> [yewtu.be/channel/UCngn7SVujlvskHRvRKc1cTw](https://www.youtube.com/channel/UCngn7SVujlvskHRvRKc1cTw) - BugsWriter <s>aka Pajeet Luke Smith Clone</s>  
+> [yewtu.be/channel/UCbpe1SYzZKG4RswEnxxSRZQ](https://yewtu.be/channel/UCbpe1SYzZKG4RswEnxxSRZQ) - Root BSD Channel.  
+> [yewtu.be/c/ThePrimeagen](https://yewtu.be/c/ThePrimeagen) - ThePrimeAgen Channel, Die-hard vim user.  
 > [yewtu.be/c/BanditHijo](https://yewtu.be/c/BanditHijo) - BanditHijo
 > [yewtu.be/c/AlifRadhitya](https://yewtu.be/c/AlifRadhitya) - al1r4d
 
@@ -68,6 +69,9 @@ Date published: 2022-09-14
 
 ## Fediverse Social Media
 
+### Fediverse Server
+> [joinmastodon.org](https://joinmastodon.org/) - Mastodon | Fediverse, a Free Open Source Fediverse Server, Social networking that's not for sale.  
+> [pleroma.social/](https://pleroma.social/) - Pleroma | Frediverse, a Free Open Source also Lightweight Fediverse server.  
 ### Mastodon Instance [ActivityPub]
 > [mstdn.starnix.network](https://mstdn.starnix.network) - Starnix is a community effort lead by FOSS enthusiasts for the purpose of establishing ActivityPub Software and promoting Fediverse usage.  
 
@@ -84,9 +88,8 @@ Date published: 2022-09-14
 
 ### Youtube mitigation / Alternative
 > [yewtu.be](https://yewtu.be) - yewtu.be is a Youtube Mitigation, a Invidious instance (An open source alternative front-end to **YouTube**)  
+> [piped.kavin.rocks](https://piped.kavin.rocks/) - Piped is a alternative privacy-friendly YouTube frontend which is efficient by design.  
 > [odysee.com](https://odysee.com/) - Odysee is a Youtube alternative using LBRY as back-end, sometime I found the *Rabbit Hole* video's here.  
-> [joinmastodon.org](https://joinmastodon.org/) - Mastodon | Fediverse, a Free Open Source Fediverse Server, Social networking that's not for sale.  
-> [pleroma.social/](https://pleroma.social/) - Pleroma | Frediverse, a Free Open Source also Lightweight Fediverse server.  
 
 ### Community
 > [sqt](https://sqt.wtf) - based autistic community that you will gonna say "wtf!" after enter it, IRC channel also available.  
