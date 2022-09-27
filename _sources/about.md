@@ -59,6 +59,7 @@ Plus, If I can deliver really good content using Codeberg as domain it will enco
 | What is my?            | Name                     		| Source                                                     |
 | --------------------   | ------------------------------------ | ---------------------------------------------------------- |
 | Operating System       | **Void Linux**           		| <https://voidlinux.org/>                                   |
+| Shell (POSIX)          | **oksh**	           		| <https://github.com/ibara/oksh>                            |
 | Window Manager         | **dwm**                  		| <https://dwm.suckless.org/>                                |
 | Terminal Emulator      | **st**                   		| <https://st.suckless.org/>                                 |
 | Status Monitor         | **slstatus**				| <https://tools.suckless.org/slstatus/>		     |

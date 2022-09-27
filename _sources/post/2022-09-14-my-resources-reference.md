@@ -22,28 +22,71 @@ Date published: 2022-09-14
 
 ---
 
-## Best  
+## Website (or link) of
+
+### Cool based person on the internet
+> [lukesmith.xyz](https://lukesmith.xyz "lukesmith.xyz") - LukeSmith personal website  
+> [mstdn.starnix.network/@nerdtronics](https://mstdn.starnix.network/@nerdtronics) - 𝕽𝖔𝖔𝖙 BSD *insert Bizzare Purple Frog here*  
+> [bandithijo.dev](https://bandithijo.dev) - BanditHijo (R)-Chive website  
+> (radhitya.my.id)(https://radhitya.my.id/) - al1r4d website  
+
+### Others website or blog
+> [solar.lowtechmagazines.com](https://solar.lowtechmagazine.com/) - A website that use lowtech yet efficient technology website, is a solar-powered websitewhich means it sometimes goes offline   
+> [ubuntubuzz.com](https://www.ubuntubuzz.com/) - ubuntubuzz.com is unofficial ubuntu/linux/opensource fan blog which want to share information, article, and news about linux, ubuntu, and free opensource software  
+
+## Software reference
 > [suckless.org](https://suckless.org) - Software that suckless.  
-> [cat-v](http://harmful.cat-v.org/software/) - *Considered harmful*.  
-> [4chan /g/ Technology boards](https://boards.4channel.org/g/) - Least *anti-norms* social media.  
+> [harmful.cat-v.org/software/](http://harmful.cat-v.org/software/) - *Considered harmful*.  
+> [boards.4channel.org/g/](https://boards.4channel.org/g/) - 4chan /g/ Technology board, a least *anti-norms* social media.  
+> [wiki.musl-libc.org/alternatives.html](https://wiki.musl-libc.org/alternatives.html) - Resource list for alternative libraries and programs that are lightweight, not bloated, efficient or have other useful design characteristics and may be usable with musl.  
+> [wiki.musl-libc.org/projects-using-musl.html](https://wiki.musl-libc.org/projects-using-musl.html) - A project that using musl libc.  
+
+## Web tools
+
+### For UI / UX things
+> [encycolorpedia.com](https://encycolorpedia.com/) - encycolorpedia.com is a Color Picker with Color Meaning Summary, Hex color codes, paint matching.   
+
+## Youtube Channel of 
+
+### Cool based person on the internet
+> [yewtu.be/c/LukeSmithxyz](https://yewtu.be/c/LukeSmithxyz/) - <s>Runescape Default Character</s> Based tech boomer that say "ok" so many times, use ThinkPad X200, T420, X60, X220 (mainly) with dwm, creator of [LARBS](https://github.com/LukeSmithxyz/LARBS), linguistic sometime, "what's up guys, vim diesel here".  
+> [yewtu.be/c/MentalOutlaw](https://yewtu.be/c/MentalOutlaw/) - <s>Luke Smith Deepfake</s> <s>aka Jayson Tatum</s> One of few least tech news youtuber that you can trust, Gentoo user, anti-christ hater.  
+> [yewtu.be/c/DistroTube](https://yewtu.be/c/DistroTube) - Based boomer too. do many Linux / Free Software guide.  
+> [yewtu.be/channel/UCbpe1SYzZKG4RswEnxxSRZQ](https://yewtu.be/channel/UCbpe1SYzZKG4RswEnxxSRZQ) - RootBSD ChannelBased boomer, OpenBSD user.  
+> [yewtu.be/c/ThePrimeagen](https://yewtu.be/c/ThePrimeagen) - ThePrimeAgen, Die-hard vim user.  
+> [yewtu.be/c/BanditHijo](https://yewtu.be/c/BanditHijo) - BanditHijo
+> [yewtu.be/c/AlifRadhitya](https://yewtu.be/c/AlifRadhitya) - al1r4d
+
+## Free Course (Most is Free as in Gratis)
+> [landchad.net](https://landchad.net) - This is LandChad.net, a site dedicated to turning internet peasants into Internet Landlords by showing them how to setup websites, email servers, chat servers and everything in between.  
+> [freecodecamp.org](https://www.freecodecamp.org/) - freeCodeCamp is a community of millions of people around the world who are learning to code together. You can learn to code with free online courses.  
+> [theodinproject.com](https://theodinproject.com) - The Odin Project is one of those "What I wish I had when I was learning" resources.  
+> [typingclub.com](https://www.typingclub.com/) - Learn Touch Typing with Interactive Gamification style games.  
+
+### Music
+> [Tevvez](https://www.youtube.com/c/esteevteev) - Chad, Gen ZYZZ, Create awesome hardstyle music.  
+
+## Fediverse Social Media
+
+### Mastodon Instance [ActivityPub]
+> [mstdn.starnix.network](https://mstdn.starnix.network) - Starnix is a community effort lead by FOSS enthusiasts for the purpose of establishing ActivityPub Software and promoting Fediverse usage.  
 
 ## Others  
 > [Urban Dictionary's](https://www.urbandictionary.com/) - A place to find meanings about slang words and such.  
+
+### Reddit Mitigation
 > [Teddit](https://teddit.net/) - An free open source front-end to **Reddit** focused on privacy that **doesn't require you to have JavaScript enabled** in your browser.  
- > [/r/unixporn](https://teddit.net/r/unixporn) - Subreddit about ricing (modding the looks and feels on Linux/BSD/*nix based OS).  
- > [/r/thinkpad](https://teddit.net/r/thinkpad) - Subreddit about ThinkPad (A glorious place to see ThinkPad things btw).  
+> [Unddit](https://unddit.com/) - splay removed (by mods) and deleted (by users) comments/posts for Reddit.  
 
+#### Cool subreddit
+> [teddit.net/r/thinkpad](https://teddit.net/r/thinkpad) - Subreddit about ThinkPad (A glorious place to see ThinkPad things btw).  
+> [teddit.net/r/unixporn](https://teddit.net/r/unixporn) - Subreddit about UNIX (or NIX like) ricing / customziation their own UNIX system (A glorious place to see cool UX reference things btw).  
 
-> [Invidious](https://invidious.sethforprivacy.com/) - An open source alternative front-end to **YouTube**  
-> [Odysee](https://odysee.com/) - Youtube alternative using LBRY as back-end, sometime I found the *Rabbit Hole* video's here.  
-> [Pleroma | Fediverse](https://stereophonic.space/) - A fediverse social media that is lightweight.  
+### Youtube mitigation / Alternative
+> [yewtu.be](https://yewtu.be) - yewtu.be is a Youtube Mitigation, a Invidious instance (An open source alternative front-end to **YouTube**)  
+> [odysee.com](https://odysee.com/) - Odysee is a Youtube alternative using LBRY as back-end, sometime I found the *Rabbit Hole* video's here.  
+> [joinmastodon.org](https://joinmastodon.org/) - Mastodon | Fediverse, a Free Open Source Fediverse Server, Social networking that's not for sale.  
+> [pleroma.social/](https://pleroma.social/) - Pleroma | Frediverse, a Free Open Source also Lightweight Fediverse server.  
 
-> [Tevvez](https://www.youtube.com/c/esteevteev) - Chad, Gen ZYZZ, Create awesome hardstyle music.  
-
-## Youtube Channel of Cool based person on the internet:
-
-> [Luke Smith](https://www.youtube.com/c/LukeSmithxyz/) - <s>Runescape Default Character</s> Based tech boomer that say "ok" so many times, use ThinkPad X200, T420, X60, X220 (mainly) with dwm, creator of [LARBS](https://github.com/LukeSmithxyz/LARBS), linguistic sometime, "what's up guys, vim diesel here".  
-> [Mental Outlaw](https://www.youtube.com/c/MentalOutlaw/) - <s>Luke Smith Deepfake</s> <s>aka Jayson Tatum</s> One of few least tech news youtuber that you can trust, Gentoo user, anti-christ hater.  
-> [Distro Tube](https://www.youtube.com/c/DistroTube) - Based boomer too. do many Linux / Free Software guide.  
-> [Root BSD](https://www.youtube.com/channel/UCbpe1SYzZKG4RswEnxxSRZQ) - Based boomer, OpenBSD user.  
-> [ThePrimeAgen](https://www.youtube.com/c/ThePrimeagen) - Die-hard vim user.  
+### Community
+> [sqt](https://sqt.wtf) - based autistic community that you will gonna say "wtf!" after enter it, IRC channel also available.  
