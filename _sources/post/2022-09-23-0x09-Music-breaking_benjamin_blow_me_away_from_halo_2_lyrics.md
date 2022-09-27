@@ -1,0 +1,73 @@
+<nav>
+<a href="../index.html">Home</a>
+|
+<a href="../post.html">Post</a>
+|
+<a href="../project.html">Project</a>
+<nav class="div-right">
+<a href="../contact.html">Contact</a>
+|
+<a href="../about.html">About</a>
+</nav>
+</header>
+<hr><hr>
+<main>
+<!-- Your Content Start After This Line -->
+
+
+# Breaking Benjamin - Blow Me Away (from Halo 2) Lyrics
+
+Date published: 2022-09-23
+
+---
+
+## Blow Me Away Lyrics
+
+```
+[Verse 1]
+They fall in line, one at a time, ready to play
+(I can't see them anyway)
+No time to lose, we've got to move, steady your helm
+(I am losing sight again)
+
+[Pre-Chorus]
+Fire your guns, it's time to run, blow me away
+(I will stay in the mess I made)
+After the fall, we'll shake it off, show me the way
+
+[Chorus]
+Only the strongest will survive
+Lead me to heaven when we die
+I am a shadow on the wall
+I'll be the one to save us all
+
+[Verse 2]
+There's nothin' left, so save your breath, lying in wait
+(Caught inside this tidal wave)
+Your cover's blown, nowhere to go, holding your fate
+(Lonely, I will walk alone)
+
+[Pre-Chorus]
+Fire your guns, it's time to run, blow me away
+(I will stay in the mess I made)
+After the fall, we'll shake it off, show me the way
+
+[Chorus]
+Only the strongest will survive
+Lead me to heaven when we die
+I am a shadow on the wall
+I'll be the one to save us all
+
+[Bridge: Ben]
+You wanted it back
+Don't fight me now
+Here it comes
+Die
+
+[Chorus]
+Only the strongest will survive
+Lead me to heaven when we die
+I am a shadow on the wall
+I'll be the one to save us all
+Save us all
+```

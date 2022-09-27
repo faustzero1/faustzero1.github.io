@@ -1,0 +1,80 @@
+<nav>
+<a href="../index.html">Home</a>
+|
+<a href="../post.html">Post</a>
+|
+<a href="../project.html">Project</a>
+<nav class="div-right">
+<a href="../contact.html">Contact</a>
+|
+<a href="../about.html">About</a>
+</nav>
+</header>
+<hr><hr>
+<main>
+<!-- Your Content Start After This Line -->
+
+
+# STARSET - THE BREACH Lyrics
+
+Date published: 2022-09-23
+
+---
+
+## THE BREACH Lyrics
+
+```
+[Chorus]
+Follow me
+Follow me now, once more into the breach
+Can you see?
+Can you see how this is the way to destiny?
+
+[Verse 1]
+Am I alive?
+Am I pretending?
+You said I could fly
+So go on then
+Fill my eyes with fire
+I’m a sleeper awakened
+I set my sails with desire
+And drift to the edge where the fate ends
+And fade in
+
+[Chorus]
+Follow me
+Follow me now once more into the breach
+Can you see?
+Can you see how this is the way to destiny?
+
+[Verse 2]
+Crystallized
+Under the weight of the nothingness
+Calcified
+By the end
+I am losing hope
+We are wonder-made
+But we wander the wilderness in violence
+I just want to be home with the light again
+Take me home
+
+[Chorus]
+Follow me
+Follow me now once more into the breach
+Can you see?
+Can you see how this is the way to destiny?
+Follow me
+Follow me now once more into the breach
+Can you see?
+Can you see how this is the way to destiny?
+
+[Chorus]
+Follow me
+Follow me now once more into the breach
+Can you see?
+Can you see how this is the way to destiny?
+Follow me
+Follow me now once more into the breach
+Can you see?
+Can you see how this is the way to destiny?
+```
