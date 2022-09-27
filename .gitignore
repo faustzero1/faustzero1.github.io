@@ -5,4 +5,4 @@ source/
 # ===OTHERS===
 *.un~
 *~
-
+.directory
