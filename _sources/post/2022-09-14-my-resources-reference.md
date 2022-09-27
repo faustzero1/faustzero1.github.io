@@ -26,6 +26,7 @@ Date published: 2022-09-14
 
 ### Cool based person on the internet
 > [lukesmith.xyz](https://lukesmith.xyz "lukesmith.xyz") - LukeSmith personal website  
+> [https://distro.tube/index.html](https://distro.tube/index.html) - DistroTube website a Based Linux chad, Create some Linux / Free Software guide  
 > [mstdn.starnix.network/@nerdtronics](https://mstdn.starnix.network/@nerdtronics) - Root BSD *insert Bizzare Purple Frog here*  Based boomer, OpenBSD user.
 > [bandithijo.dev](https://bandithijo.dev) - BanditHijo (R)-Chive website  
 > [radhitya.my.id](https://radhitya.my.id/) - al1r4d website  
@@ -51,7 +52,7 @@ Date published: 2022-09-14
 ### Cool based person on the internet
 > [yewtu.be/c/LukeSmithxyz](https://yewtu.be/c/LukeSmithxyz/) - Luke Smith <s>Runescape Default Character</s> Based tech boomer that say "ok" so many times, use ThinkPad X200, T420, X60, X220 (mainly) with dwm, creator of [LARBS](https://github.com/LukeSmithxyz/LARBS), linguistic sometime, "what's up guys, vim diesel here".  
 > [yewtu.be/c/MentalOutlaw](https://yewtu.be/c/MentalOutlaw/) - Mental Outlaw <s>aka Luke Smith Deepfake</s> <s>aka Jayson Tatum</s> One of few least tech news youtuber that you can trust, Gentoo user, anti-christ hater.  
-> [yewtu.be/c/DistroTube](https://yewtu.be/c/DistroTube) - Distro tube Based boomer too. do many Linux / Free Software guide.  
+> [yewtu.be/c/DistroTube](https://yewtu.be/c/DistroTube) - Distro tube .  
 > [yewtu.be/channel/UCngn7SVujlvskHRvRKc1cTw](https://www.youtube.com/channel/UCngn7SVujlvskHRvRKc1cTw) - BugsWriter <s>aka Pajeet Luke Smith Clone</s>  
 > [yewtu.be/channel/UCbpe1SYzZKG4RswEnxxSRZQ](https://yewtu.be/channel/UCbpe1SYzZKG4RswEnxxSRZQ) - Root BSD Channel.  
 > [yewtu.be/c/ThePrimeagen](https://yewtu.be/c/ThePrimeagen) - ThePrimeAgen Channel, Die-hard vim user.  
