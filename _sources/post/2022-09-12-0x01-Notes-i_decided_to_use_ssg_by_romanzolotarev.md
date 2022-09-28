@@ -16,9 +16,11 @@
 <!-- Your Content Start After This Line -->
 
 
-# I decided to use ssg by romanzolotarev #NOTFINISHEDYET
+# I decided to use ssg by romanzolotarev 
 
 Date published: 2022-09-12
+
+*Still need adding more information about this*  
 
 ---
 
@@ -64,8 +66,8 @@ This is how I use *ssg*, for example we are going to make:
 * Source directory at pages/_rawdata/
 * Destination directory at pages/
 * The content of the website is '# Hello world'
-* The markdown name is 2022-09-first-post.md
-* The website title is 'Harambe | Cool'
+* The markdown name is 2022-09-12-first-post.md
+* The website title is 'Mr smith Website'
 
 So, the commands is:
 
@@ -77,7 +79,7 @@ $ cd pages
 [pages] $ echo '<html><title></title><body>' > _rawdata/_header.md
 [pages] $ echo '</body></html>' > _rawdata/_footer.md
 [pages] $ echo '# hello world!' > _rawdata/2022-09-12-first-post.md
-[pages] $ ssg _rawdata/ . 'Harambe | Cool' 'https://harambeiscool.org'
+[pages] $ ssg _rawdata/ . 'Mr smith Website' 'https://mrsmith.xyz'
 ./2022-09-12-first-post.md
 [ssg] 1 files, 1 url
 ```
@@ -87,10 +89,11 @@ $ cd pages
 Open the html file has been created on your browser
 
 ```
-[pages] $ firefox 2022-09-12-first-post.md
+[pages] $ firefox ./2022-09-12-first-post.md
 ```
 ---
 
 Reference:  
-* [Romanzolotarev Blog](https://romanzolotarev.com/ssg.html)  
-* [Wolfgangs Channel (Youtube)](https://www.youtube.com/watch?v=N_ttw2Dihn8)  
+
+* [romanzolotarev.com/ssg.html](https://romanzolotarev.com/ssg.html)  - Romanzolotarev Blog  
+* [yewtu.be/watch?v=N_ttw2Dihn8](https://www.youtube.com/watch?v=N_ttw2Dihn8)  - Wolfgang's Youtube Channel (use Yewtube aka Invidious)   
