@@ -19,7 +19,47 @@
 # About
 
 ---
-
+<pre style="font-size: 6px">
++--------------------------------------------------------------------------+
+|      ...........'''',,,,,,,,,;;:;:ccc:;,:c::c;,''':ooc'''...;'..,,;:'.;c;|
+|      .............'''''',,;;,;::;;::cc:,,::::;'''',cll,....''...'''......|
+|       ............''','',;;;,,::;,,;:::,',,;;;,'''';c,'..........        |
+|       .............'''''',,,,,;;;,'',;;,''',;;;''''';.......       ... ..|
+|       ...............''''','',,;;,''',,''''',;;,'...........    ....'....|
+|        ..................'''''',,'''''''..''';;;'......'..............'''|
+|          .................'''',,,,'''''''...',:;,........'............,,,|
+|           ................'''',,;,''''''''..'';;,.....'',;:clo.........',|
+|           ...............'''''',;;,'.''''''..':llodxO0XNWMMMMM,...'.....'|
+|           ..............'''','.',;;';loxkOKXNMMMMMMMMMMMMMMMMM:..''''..',|
+|           .............';cldxkOK:,,'OMMMMMMMMMMMMMMMMMMMMMMMMMc...,'''.''|
+|            ..,:lodk0KXWMMMMMMMMMl',,xMMMMMMMMMMMMMMMMMMMMMMMMK'...','''',|
+|          ,XWMMMMMMMMMMMMMMMMMMMMd'''oMMMMMMMWXK0OxkWMMMMMMMMk......',,,,,|
+|         .'MMMMMMMMMMMMMMMMMMMMMMk',':kxdoc:;;;:;,cNMMMMMMMWo........,;;;;|
+|   ...  ...WMMMMMMMMMMMWNK0Oxdlc:,,,,,,;;;,;,;;:;oWMMMMMMMNl,........';:::|
+|...........XMMMMMMMMx:;'.''''''',,,,,,,;;:;;;;;:kMMMMMMMMXl;,''''''''';::c|
+|...........KMMMMMMMMo''''..',,,,,,,;;;;;;;;;;:cKMMMMMMMMOc::;,'''''''',ccl|
+|...........OMMMMMMMMd...',;codxk:;;;;;:::::::oNMMMMMMMWx:ccc:;,,,,,,,,,:ll|
+|...........xMMMMMMMMX0KXWMMMMMMMl:::::::::cckWMMMMMMMWdcccllc::;,,,,;;;;co|
+|......''''.dMMMMMMMMMMMMMMMMMMMMd:::ccccccl0MMMMMMMMXdlllllllc::;;;;;;;;:l|
+|....''',,,'oMMMMMMMMMMMMMMMMMMMMxcccccccloXMMMMMMMMOooooooooolc::::::::::c|
+|..'''',,;;;lMMMMMMMMMWNXK0OkxdolccccccllxWMMMMMMMWkoooooooooodddxolllccccc|
+|'''',,;;;::lMMMMMMMMMc;:::::cccccclllllOMMMMMMMMNxdxkO0KKXNWMMMMMkcccccloo|
+|''',,;;;::clMMMMMMMMMo::ccccllccccllloKMMMMMMMMMWWMMMMMMMMMMMMMMMx''''''''|
+|',,,,;;::cccNMMMMMMMMxccclllllcccllooKMMMMMMMMMMMMMMMMMMMMMMMMMMMk........|
+|',,,;;;:ccccXMMMMMMMMkclllllllllllllo0MMMMMMMMMMMMMMMMMMMMMMWXK0kl''''''''|
+|',,;;;::ccclKMMMMMMMM0lllllllllllllloOMMMMMMMMMMMNXK0kxolc;,''''',,,,,,,,,|
+|',,;;;::ccll0MMMMMMMMKlllllllllllllc;lNX0Okxdoc:;,,,,,,,,,,,,,,;;,,,,,,,,'|
+|,,,;;:::ccllOMMMMMMMMXlllllooooolc;''',,,;;;;;;;;;;;:::::::;;,,,,,''',,;;:|
+|,,,;;;::ccllkMMMWNXK0klllooooool;,,,,,;;;;;;;;;;;;:::::::;,,,,,,,,'...,;:c|
+|,,,,;;:::clloddolllllllooooolcc;,,,,,,,,,,,,,;;;;;:c::;,,,''',,,,,;'.',,:l|
+|',,,;;;;;ccllllllllllllolc:,,,,,,;;;::::;;;;;::::::;,,'''''''',,;;;.'',;cl|
+|',,;::::ccclllllllllllllcclloooooooooooooooolllc:,,,,,,;;;;,,,,;;:,.'',;cl|
+|,,,;;::c:::ccllllllllllllllllllooooooooolllllloolll:;,,,,,,,,,;:::;;;:cccl|
+|',,,,;;;;;::ccccllllllllllllllllllllllllllllllloooool;''',,;;::ccc:;,;,,;;|
+|.''',,,,;;;;:::ccccllllllllllllllllllllllllllllooooooooc;,,,,,;;;,,,.....'|
+|..'''',,,,;;;;:::cccccllllllllllllllllllllllllllooooooooool:;,,,,,,,'.....|
++--------------------------------------------------------------------------+
+</pre>
 ## I AM and All of Me
 
 ### I AM
