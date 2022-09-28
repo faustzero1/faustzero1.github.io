@@ -58,6 +58,8 @@ Date published: 2022-09-14
 > [yewtu.be/c/ThePrimeagen](https://yewtu.be/c/ThePrimeagen) - ThePrimeAgen Channel, Die-hard vim user.  
 > [yewtu.be/c/BanditHijo](https://yewtu.be/c/BanditHijo) - BanditHijo
 > [yewtu.be/c/AlifRadhitya](https://yewtu.be/c/AlifRadhitya) - al1r4d
+> [youtube.com/c/esteevteev](https://www.youtube.com/c/esteevteev) - Tevvez, Real life Giga Chad, Create Fuarking Awesome Hardstyle Music.  
+> [youtube.com/channel/UCvYnG6ZK2CWJOFRVnmj238Q](https://www.youtube.com/channel/UCvYnG6ZK2CWJOFRVnmj238Q) - Lexx Little, Real Life Giga Chad too, WE GO GYM!!! WE GO GYM!!! NOW!!!
 
 ## Free Course (Most is Free as in Gratis)
 > [landchad.net](https://landchad.net) - This is LandChad.net, a site dedicated to turning internet peasants into Internet Landlords by showing them how to setup websites, email servers, chat servers and everything in between.  
@@ -65,8 +67,6 @@ Date published: 2022-09-14
 > [theodinproject.com](https://theodinproject.com) - The Odin Project is one of those "What I wish I had when I was learning" resources.  
 > [typingclub.com](https://www.typingclub.com/) - Learn Touch Typing with Interactive Gamification style games.  
 
-### Music
-> [Tevvez](https://www.youtube.com/c/esteevteev) - Chad, Gen ZYZZ, Create awesome hardstyle music.  
 
 ## Fediverse Social Media
 
