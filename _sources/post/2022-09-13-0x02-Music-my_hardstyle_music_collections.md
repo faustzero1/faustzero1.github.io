@@ -22,7 +22,7 @@ Date published: 2022-09-13
 
 ---
 
-```
+<pre class="image-ascii_art">
         .                                                               
          :                                                              
          'X' o.                                                         
@@ -49,12 +49,14 @@ Date published: 2022-09-13
              c0X.  .KWX' ;MKKOOxkkdx00x0.                               
                              'OXK0K0.                                   
 		
-```
+</pre>
 ## Hardstyle
 
 *Hardstyle* are the genre music I recently like it, when you hear it you will feel like a pumped and feel the joy of the **"TRY HARDER"**  
-Mostly I got that from Youtube (you can use [Invidious](invidious.sethforprivacy.com/) for the mitigation)  
-So, checkout my *Hardstyle* music collections  
+Mostly I got that from Youtube (you can use [yewtu.be](invidious.sethforprivacy.com/))   
+
+BTW, yewtube is one of a Invidious instance that is a free open source youtube Front-end, You can learn more at [invidious.io](https://invidious.io).   
+So here, checkout my **Hardstyle** music collections:    
 
 ## Hardstyle music list  
 
