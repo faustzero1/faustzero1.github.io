@@ -20,7 +20,7 @@
 
 ---
 
-## I AM and all of me
+## I AM and All of Me
 
 ### I AM
 
@@ -30,6 +30,7 @@
 
 At some point in my live I somewhat lost contact to my fellow gamer <s>Friend's</s> Brother's,. 
 
+<!--
 ```
 The years went by
 And we lost sight
@@ -61,7 +62,7 @@ Of how we used to be
 So one thing will remain
 'Cause I still love the memories of those days...
 ```
-
+-->
 ### Now
 
 Thanks for tragic history that is drive me further to get serious enough about my life.
