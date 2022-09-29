@@ -67,3 +67,11 @@ WILLING IS NOT ENOUGH, WE MUST DO
 ### TO GAIN MASTERY
 YOU MUST UNITE THE QUALITIES OF SPIRIT, STRENGTH, TECHNIQUE   
 AND THE ABILITY TO TAKE THE INITIATIVE
+
+### Watch & Learn inspirational speech, music, literature, and movies before going to sleep  
+This will affect to your dream  
+```
+Dream 
+Not of what you are... 
+But of what you want to be.
+```
