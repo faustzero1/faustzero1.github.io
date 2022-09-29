@@ -92,6 +92,8 @@ But the truth is the programs spy on you and it sucks because the "Developer" wa
 Same as they say 'This is a good foods, you can eat it as you want',  
 But the truth is that the material or the process behind is the one who take place to determine it's quality.  
 
+<https://based.cooking> - Based Cooking might be your best friend.  
+
 ### STOP BEING FUARKING WEAK SADCUNT
 Most people are weak.  
 This is a softened generation.  

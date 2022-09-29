@@ -161,4 +161,5 @@ Plus, If I can deliver really good content using Codeberg as domain it will enco
 | SLOC Counter              | **scc**                  		    | <https://github.com/boyter/scc>                            |
 | ASCII Image Processing    | **jp2a**                  	    | <https://github.com/Talinx/jp2a>                           |
 | Disk Usage Analyzer (TUI) | **ncdu**                        | <https://g.blicky.net/ncdu.git/>                           |
+| Terminal Cheat Sheet      | **cheat.sh**                    | <https://cheat.sh>                                         |
 
