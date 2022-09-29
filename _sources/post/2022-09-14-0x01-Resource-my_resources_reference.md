@@ -33,7 +33,7 @@ Date published: 2022-09-14
 
 ### Others website or blog
 > [solar.lowtechmagazines.com](https://solar.lowtechmagazine.com/) - A website that use lowtech yet efficient technology website, is a solar-powered websitewhich means it sometimes goes offline   
-> [ubuntubuzz.com](https://www.ubuntubuzz.com/) - ubuntubuzz.com is unofficial ubuntu/linux/opensource fan blog which want to share information, article, and news about linux, ubuntu, and free opensource software  
+> [ubuntubuzz.com](https://www.ubuntubuzz.com/) - ubuntubuzz.com additional information is unofficial ubuntu/linux/opensource fan blog which want to share information, article, and news about linux, ubuntu, and free opensource software, the owner is a good right person who taught me about GNU/Linux and Free Software Stuff
 
 ## Software reference
 > [suckless.org](https://suckless.org) - Software that suckless.  
