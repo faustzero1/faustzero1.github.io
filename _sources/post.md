@@ -16,11 +16,14 @@
 <!-- Your Content Start After This Line -->
 
 
-# All posts
+# 01x0-Post
+---------------
 
 ## About this section
 
 This section contain about all of my posts that is Blog, Resources, Notes, Lab Experiment, Music, Video, Art, Theory.  
+
+<p style="font-size: 12px">To search any Posts title, just hit <code class="code-mark">CTRL + F</code></p>
 
 ## 2022
 
