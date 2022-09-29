@@ -91,3 +91,27 @@ And not just trust because they say it's a good free program's and not harmful,
 But the truth is the programs spy on you and it sucks because the "Developer" was soydev.  
 Same as they say 'This is a good foods, you can eat it as you want',  
 But the truth is that the material or the process behind is the one who take place to determine it's quality.  
+
+### STOP BEING FUARKING WEAK SADCUNT
+Most people are weak.  
+This is a softened generation.  
+So if you have mental toughtness.  
+any abilities, you have any fractions of self discipline.  
+the ability to not want to do it but still do it.  
+If you can get through to doing things that you hate to do on the other side is greatness.  
+*Speeches by David Goggins.  
+
+### Become the Voyager
+Go to explore any place you haven't explore.  
+Expand your teritory of knowledge.  
+Become the real life Hacker.  
+Don't be that IDIOT BOTNET BUGMAN NORMIE'S slave.  
+
+### Be a full-time sickkunt
+If you are Fuarking Shredded Sickkunt.  
+Then you can get away from anything brah!  
+You can tell some fatkunt and give some shit so people be like "Yeah, Zyzz Brah, Yeah" I don't give a fuark man.  
+In life, if you want to be notice:  
+You become a Fuarking Rippedkunt, you become Shreddedkunt, you go the GYM, you be Sickkunt, you're not give a fuark.  
+That's what we do it brah, that's what the Zyzzkunt's do that's the revolution is brah, not is a fuarking sadkunt's.  
+***We're All Gonna Make It Brah, That's It!***
