@@ -75,3 +75,19 @@ Dream
 Not of what you are... 
 But of what you want to be.
 ```
+
+### LEARN HOW TO COOK   
+Learn how to really cook,  
+Because nowday most of the food out there getting more and more sucks (maybe we should make food.suckless.org kind of website).   
+
+You should not just cooks by cooking instant food,   
+This mean manage and cooks the food from raw materials,   
+Experimenting with your own recipe's,   
+Become the independent chef for your life,   
+
+With cooking your own food, you will know what is the thing that you put inside your body,  
+It's like utilizing open source code to the max that you know what your program run,  
+And not just trust because they say it's a good free program's and not harmful,  
+But the truth is the programs spy on you and it sucks because the "Developer" was soydev.  
+Same as they say 'This is a good foods, you can eat it as you want',  
+But the truth is that the material or the process behind is the one who take place to determine it's quality.  
