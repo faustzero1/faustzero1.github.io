@@ -163,3 +163,50 @@ Plus, If I can deliver really good content using Codeberg as domain it will enco
 | Disk Usage Analyzer (TUI) | **ncdu**                        | <https://g.blicky.net/ncdu.git/>                           |
 | Terminal Cheat Sheet      | **cheat.sh**                    | <https://cheat.sh>                                         |
 
+
+## About
+**Your Friendly Neighborhood Tech-Guy**
+Focus | We're All Gonna Make It Brah! 🔱
+---
+FLOSS enthusiast, DevOps, Go Getter and Indonesia Man
+No need to declare pronouns, I am a man created in the image of God.
+🇮🇩 << based country btw (sadly has dominated by retarded govt)
+
+Big Tech bad
+Committee bad
+Groupthink bad
+Government bad
+Proprietary Software bad
+"Feminism" is cancer
+---
+Every *real* person are smart and have unique point of knowledge that can be used to re-invent the status-quo.
+Everyone has a little bit Zyzz in them.
+You're fuarking sickunt if you wanna be Brah!
+So, Build your best 'The Legacy' Brah!
+
+Fight or be forgotten
+Win it or lose it
+Live and Learn (Hanging on the edge of tommorow!)
+---
+Checkout my Hardstyle Ψ playlist that I share here:
+https://mstdn.starnix.network/@drfaustz/tagged/hardstyle
+---
+Be aware from glowie :terryhacker:​
+#nobot #dontglow
+---
+Related to:
+#Indonesia 🇮🇩 #ThinkPad
+
+#Zyzz 🔱 #Hardstyle Ψ #Gym 🔱 #Workout 🔱 #Train 🔱 #Development #SelfDevelopment Ψ
+
+#Developer #SoftwareDeveloper #SoftwareEngineer #ReverseEngineer #Tech #Technology #Programming #Efficiency #Networking #SysAdmin #DevOps
+
+#DIY #DIYHardware #FreeHardware #HardwareMod
+
+#FOSS #FLOSS #FreeSoftware #LibreSoftware #FreeasinFreedom #Privacy #PrivacyAdvocate #Monero
+
+#UNIX #Linux #ArchLinux #VoidLinux #Gentoo #BSD #FreeBSD #OpenBSD #Suckless
+
+#Hacker #Hacking #Voyager #Security #DefectivebyDesign #Censorship #Surveillance #Resistance #UX #UXResearch
+
+#UXDesign #UIDesign #Art #3DDesign #ArchViz #GameDesign #SoundDesign
