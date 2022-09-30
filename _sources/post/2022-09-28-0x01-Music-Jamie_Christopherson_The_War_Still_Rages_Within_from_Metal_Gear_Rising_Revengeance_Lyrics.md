@@ -1,13 +1,13 @@
 <nav>
-<a href="../index.html">Home</a>
+<a href="../INDEX.html">Home</a>
 |
-<a href="../post.html">Post</a>
+<a href="../POST.html">Post</a>
 |
-<a href="../project.html">Project</a>
+<a href="../ARSENAL.html">Arsenal</a>
 <nav class="div-right">
-<a href="../contact.html">Contact</a>
+<a href="../CONTACT.html">Contact</a>
 |
-<a href="../about.html">About</a>
+<a href="../ABOUT.html">About</a>
 </nav>
 </header>
 <hr><hr>
