@@ -30,6 +30,7 @@ Date published: 2022-09-14
 > [mstdn.starnix.network/@nerdtronics](https://mstdn.starnix.network/@nerdtronics) - Root BSD *insert Bizzare Purple Frog here*  Based boomer, OpenBSD user.   
 > [bandithijo.dev](https://bandithijo.dev) - BanditHijo (R)-Chive website  
 > [radhitya.my.id](https://radhitya.my.id/) - al1r4d website  
+> [autono.my.id](https://autono.my.id/) - al1r4d another website  
 
 ### Others website or blog
 > [solar.lowtechmagazines.com](https://solar.lowtechmagazine.com/) - A website that use lowtech yet efficient technology website, is a solar-powered websitewhich means it sometimes goes offline   
