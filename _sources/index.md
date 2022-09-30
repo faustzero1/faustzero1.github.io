@@ -30,4 +30,4 @@
 | You'll be free~
 |</pre>
 
-[**...See all of my posts here**](./post.html)
+[**...See all of my posts here**](./POST.html)
