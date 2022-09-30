@@ -1,20 +1,3 @@
-<nav>
-<a href="../index.html">Home</a>
-|
-<a href="../post.html">Post</a>
-|
-<a href="../project.html">Project</a>
-<nav class="div-right">
-<a href="../contact.html">Contact</a>
-|
-<a href="../about.html">About</a>
-</nav>
-</header>
-<hr><hr>
-<main>
-<!-- Your Content Start After This Line -->
-
-
 # Keith Power - We All Lift Together (from Warframe) Lyrics
 
 Date published: 2022-09-13

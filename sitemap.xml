@@ -4,11 +4,6 @@ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
 xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-<url><loc>https://faustzero1.codeberg.page/CONTACT.html</loc><lastmod>2022-09-30</lastmod><priority>1.0</priority></url>
-<url><loc>https://faustzero1.codeberg.page/ABOUT.html</loc><lastmod>2022-09-30</lastmod><priority>1.0</priority></url>
-<url><loc>https://faustzero1.codeberg.page/POST.html</loc><lastmod>2022-09-30</lastmod><priority>1.0</priority></url>
-<url><loc>https://faustzero1.codeberg.page/ARSENAL.html</loc><lastmod>2022-09-30</lastmod><priority>1.0</priority></url>
-<url><loc>https://faustzero1.codeberg.page/index.html</loc><lastmod>2022-09-30</lastmod><priority>1.0</priority></url>
 <url><loc>https://faustzero1.codeberg.page/post/2022-09-23-0x02-Music-breaking_benjamin_dear_agony_lyrics.html</loc><lastmod>2022-09-30</lastmod><priority>1.0</priority></url>
 <url><loc>https://faustzero1.codeberg.page/post/2022-09-15-0x01-Guide-thinkpad_buyer_guide.html</loc><lastmod>2022-09-30</lastmod><priority>1.0</priority></url>
 <url><loc>https://faustzero1.codeberg.page/post/2022-09-11-0x01-Info-awaken.html</loc><lastmod>2022-09-30</lastmod><priority>1.0</priority></url>
