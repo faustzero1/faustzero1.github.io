@@ -51,7 +51,8 @@
 
 ### Past
 
-At some point in my live I somewhat lost contact to my fellow gamer <s>Friend's</s> Brother's,. 
+At some point in my live I somewhat lost contact to my fellow gamer comrades. 
+I hope **We're Gonna Unite Again** someday...
 
 <!--
 ```
@@ -128,24 +129,32 @@ Plus, If I can deliver really good content using Codeberg as domain it will enco
 
 ## Software that I use
 
-| What is my?               | Name                     	 	    | Source                                                     |
-| ------------------------- | ------------------------------- | ---------------------------------------------------------- |
-| Operating System          | **Void Linux**           		    | <https://voidlinux.org/>                                   |
-| Shell (POSIX)             | **oksh**	           		        | <https://github.com/ibara/oksh>                            |
-| Window Manager            | **dwm**                  		    | <https://dwm.suckless.org/>                                |
-| Terminal Emulator         | **st**                   		    | <https://st.suckless.org/>                                 |
-| Status Monitor            | **slstatus**		                | <https://tools.suckless.org/slstatus/>		                 |
-| Text Editor	              | **Vis**                         | <https://github.com/martanne/vis>                          |
-| Terminal Multiplexer      | **tmux**                        | <https://github.com/tmux/tmux>                             |
-| Browser (1)               | **Librewolf** (fork of Firefox) | <https://librewolf.net/>                                   |
-| Browser (2)               | **Ungoogled Chromium**   		    | <https://github.com/ungoogled-software/ungoogled-chromium> |
-| Browser (3)               | **surf**                 		    | <https://surf.suckless.org/>                               |
-| Search Engine             | **Disroot SearXNG**      		    | <https://apps.disroot.org/>                                |
-| SLOC Counter              | **scc**                  		    | <https://github.com/boyter/scc>                            |
-| ASCII Image Processing    | **jp2a**                  	    | <https://github.com/Talinx/jp2a>                           |
-| Disk Usage Analyzer (TUI) | **ncdu**                        | <https://g.blicky.net/ncdu.git/>                           |
-| Terminal Cheat Sheet      | **cheat.sh**                    | <https://cheat.sh>                                         |
+| whatis                    | $pkg_name                	 	    | $desc                                                                                                                                           | $URL                                                               |
+| ------------------------- | ------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
+| 01x0-$OperatingSystem     | **VoidLinux**           		    | A Linux distro that has Perfect combination between Stable; Latest_package; Multi_Architecture; Well_maintained; musl; #NotaFork!                     | <https://voidlinux.org/>                                           |
+| 01x0-$Shell               | **oksh**	           		        | Portable OpenBSD ksh, based on the Public Domain Korn Shell (pdksh).                                                                                  | <https://github.com/ibara/oksh>                                    |
+| 01x0-$WindowManager       | **dwm**                  		    | suckless dynamic window manager                                                                                                                       | <https://dwm.suckless.org/>                                        |
+| 01x0-$TerminalEmulator    | **st**                   		    | suckless simple terminal for X.                                                                                                                       | <https://st.suckless.org/>                                         |
+| 01x0-$Status_Monitor      | **slstatus**		                | slstatus is a status monitor for window managers that use WM_NAME or stdin to fill the status bar.                                                    | <https://tools.suckless.org/slstatus/>		                         |
+| 01x0-$Text_Editor	        | **neovim** with NvChad          | Vim-fork focused on extensibility and usability.                                                                                                      | <https://github.com/martanne/vis>                                  |
+| 01x1-$Text_Editor	        | **Vis**                         | A modern, legacy free, simple yet efficient vim-like editor.                                                                                          | <https://github.com/martanne/vis>                                  |
+| 01x0-$TerminalMultiplexer | **tmux**                        | tmux is a terminal multiplexer: it enables a number of terminals to be created, accessed, and controlled from a single screen.                        | <https://github.com/tmux/tmux>                                     |
+| 01x0-$Browser             | **Firefox (HARDENED)**          | Hardened Firefox for Security and Privacy Surveillance                                                                                                | *We're gonna make post about this soon*                            |
+| 01x1-$Browser             | **TOR Browser**          		    | Tor Browser to experience real private browsing without tracking, surveillance, or censorship.                                                        | <https://www.torproject.org/>                                      |
+| 01x2-$Browser             | **surf**                 		    | surf is a simple web browser based on WebKit2/GTK+. It supports the XEmbed protocol which makes it possible to embed it in another application        | <https://surf.suckless.org/>                                       |
+| 01x3-$Browser             | **Ungoogled Chromium**   		    | Google Chromium, sans integration with Google                                                                                                         | <https://github.com/ungoogled-software/ungoogled-chromium>         |
+| 01x0-SearchEngine         | **Disroot SearXNG**      		    | SearXNG hosted on Disroot, Provide Google, Duckduckgo, Qwant, Brave, etc Search Result                                                                | <https://search.disroot.org/>                                      |
+| 01x0-$FeedsReader         | **Smart RSS Reader**      		  | A RSS & Atom reader browser add-ons.                                                                                                                  | <https://addons.mozilla.org/en-US/firefox/addon/smart-rss-reader/> |
+| 01x1-$RSS_Reader          | **sfeed**                       | RSS and Atom parser, CLI programs and sfeed_curses UI.                                                                                                | <https://codemadness.org/sfeed.html>                               |
+| 01x0-IRCClient            | **kirc**                        | A tiny IRC client written in POSIX C99.                                                                                                               | <https://github.com/mcpcpc/kirc>                                   |
+| 01x0-VideoPlayer          | **mpv**                         | Shredded aka lightweight aka suckless Video Player                                                                                                    | <https://github.com/mcpcpc/kirc>                                   |
+| 01x1-Video_Player         | **VLC**                         | Bloated Video Player                                                                                                                                  | <https://github.com/mcpcpc/kirc>                                   |
+| 01x0-SLOCCounter          | **scc**                  		    | Sloc, Cloc and Code: scc is a very fast accurate code counter with complexity calculations and COCOMO estimates written in pure Go.                   | <https://github.com/boyter/scc>                                    |
+| 01x0-ASCIIImageProcessing | **jp2a**                  	    | Convert Image to ASCII text format, be able to modify the result (Resolution, Color, Output)                                                          | <https://github.com/Talinx/jp2a>                                   |
+| 01x0-DiskUsageAnalyzer    | **ncdu**                        | Disk Usage Analyzer with Ncurses Interface                                                                                                            | <https://g.blicky.net/ncdu.git/>                                   |
+| 01x0-TerminalCheatSheet   | **cheat.sh**                    | Cheat Sheet for Terminal                                                                                                                              | <https://cheat.sh>                                                 |
 
+For more details, See # [./post/FZ1-202209-14-01x0](./post/FZ1-20220914-01x0.html) [Resource] My resources reference
 
 ## About
 **Your Friendly Neighborhood Tech-Guy**
