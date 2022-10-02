@@ -157,41 +157,51 @@ Plus, If I can deliver really good content using Codeberg as domain it will enco
 For more details, See # [./post/FZ1-202209-14-01x0](./post/FZ1-20220914-01x0.html) [Resource] My resources reference
 
 ## About
-**Your Friendly Neighborhood Tech-Guy**
+
+**Everyone Has Little Bit Zyzz in Them**  
 Focus | We're All Gonna Make It Brah! 🔱
+
 ---
-FLOSS enthusiast, DevOps, Go Getter and Indonesia Man
-No need to declare pronouns, I am a man created in the image of God.
+
+FLOSS enthusiast, DevOps, Go Getter and Indonesia Man  
+No need to declare pronouns, I am a man created in the image of God.  
 🇮🇩 << based country btw (sadly has dominated by retarded govt)
 
-Big Tech bad
-Committee bad
-Groupthink bad
-Government bad
-Proprietary Software bad
-"Feminism" is cancer
----
-Every *real* person are smart and have unique point of knowledge that can be used to re-invent the status-quo.
-Everyone has a little bit Zyzz in them.
-You're fuarking sickunt if you wanna be Brah!
-So, Build your best 'The Legacy' Brah!
+Big Tech bad    
+Committee bad  
+Groupthink bad  
+Government bad  
+Proprietary Software bad  
 
-Fight or be forgotten
-Win it or lose it
-Live and Learn (Hanging on the edge of tommorow!)
 ---
-Checkout my Hardstyle Ψ playlist that I share here:
+
+Every *real* person are smart and have unique point of knowledge that can be used to re-invent the status-quo.  
+Everyone has a little bit Zyzz in them.  
+You're fuarking sickunt if you wanna be Brah!  
+So, Build your best 'The Legacy' Brah!  
+
+Fight or be forgotten  
+Win it or lose it  
+Live and Learn (Hanging on the edge of tommorow!)  
+
+---
+
+Checkout my Hardstyle Ψ playlist that I share here:  
 https://mstdn.starnix.network/@drfaustz/tagged/hardstyle
+
 ---
-Be aware from glowie :terryhacker:​
+
+Be aware from glowie  
 #nobot #dontglow
+
 ---
-Related to:
-#Indonesia 🇮🇩 #ThinkPad
 
-#Zyzz 🔱 #Hardstyle Ψ #Gym 🔱 #Workout 🔱 #Train 🔱 #Development #SelfDevelopment Ψ
+Related to:  
+#Indonesia 🇮🇩 #ThinkPad  
 
-#Developer #SoftwareDeveloper #SoftwareEngineer #ReverseEngineer #Tech #Technology #Programming #Efficiency #Networking #SysAdmin #DevOps
+#Zyzz 🔱 #Hardstyle Ψ #Gym 🔱 #Workout 🔱 #Train 🔱 #Development #SelfDevelopment Ψ  
+
+#Developer #SoftwareDeveloper #SoftwareEngineer #ReverseEngineer #Tech #Technology #Programming #Efficiency #Networking #SysAdmin #DevOps  
 
 #DIY #DIYHardware #FreeHardware #HardwareMod
 
