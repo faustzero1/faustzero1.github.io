@@ -9,6 +9,7 @@ This section contain about all of my posts that is Blog, Resources, Notes, Lab E
 
 ## 2022
 
+#<a href="./post/FZ1-20221002-01x0.html">./post/FZ1-20221002-01x0</a> [Info] I decide to buy my personal domain (fz1.space)    
 #<a href="./post/FZ1-20220930-01x0.html">./post/FZ1-20220930-01x0</a> [Motivation] Luke Smith and George Hotz know what most people don’t    
 #<a href="./post/FZ1-20220929-04x0.html">./post/FZ1-20220929-04x0</a> [Motivation] Braveheart: William Wallace Freedom Speech   
 #<a href="./post/FZ1-20220929-03x0.html">./post/FZ1-20220929-03x0</a> [Motivation] Zyzz - The Legacy Speech   
