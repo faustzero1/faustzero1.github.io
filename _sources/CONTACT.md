@@ -21,6 +21,9 @@
 
 ## Others Link / Social Media I use
 
+Code forge
+----------
+
 ### Codeberg:
 #### [https://codeberg.org/faustzero1](https://codeberg.org/faustzero1)
 
@@ -33,8 +36,35 @@
 ### Gitlab:
 #### [https://gitlab.com/faustzero1](https://gitlab.com/faustzero1)
 
+Video
+-----
+
+### Peertube
+#### [https://videos.danksquad.org/](https://videos.danksquad.org/)
+
+### Odysee
+#### [https://odysee.com/@FaustZero1](https://odysee.com/@FaustZero1)
+
+### Youtube
+#### [https://www.youtube.com/channel/UCnVI-iMQyZWEtSwAKzQrxHg](https://www.youtube.com/channel/UCnVI-iMQyZWEtSwAKzQrxHg)
+
+Gaming
+------
+
 ### Steam:
 #### [https://steamcommunity.com/id/skyd1verr/](https://steamcommunity.com/id/skyd1verr/)
+
+Social media
+------------
+
+### Mastodon (Fediverse)
+#### [https://mstdn.starnix.network/@drfaustz](https://mstdn.starnix.network/@drfaustz)
+
+### Pleroma (Fediverse 2nd account)
+#### [https://stereophonic.space/faustzero1](https://stereophonic.space/faustzero1)
+
+### Twitter
+#### [https://twitter.com/faustzero1](https://twitter.com/faustzero1)
 
 ###  Former Facebook (Already press delete account, Need to wait 30 Days for permanently nuked):
 #### [https://www.facebook.com/qozlinoceptr/](https://www.facebook.com/qozlinoceptr/)
