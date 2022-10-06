@@ -99,7 +99,7 @@ Additionally, I rather call myself a "Voyager" rather than a "Hacker", a man who
 I Love Art, Technology, and Efficiency.  
 I am Also Still Learning.  
 Everything I got is cause by God Train and 'Focus'.
-
+I will keep do Asking and Searching.
 
 ## About this website
 
