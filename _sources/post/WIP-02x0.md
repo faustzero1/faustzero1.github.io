@@ -1,7 +1,6 @@
 # [WIP] [Guide] Here is how to run android in linux as lightweight as usable as possible  
 
 ```
-Date-published: 2022-10-02-01x0
 Tags: #Android #Emulator #Wayland #BIGTECH 
 ```
 ---

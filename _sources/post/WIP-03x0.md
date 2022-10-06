@@ -1,7 +1,6 @@
 # [WIP] [Guide] RSS & Atom feeds reader with sfeed 
 
 ```
-Date-published: 2022-10-02-03x0
 Tags: #Guide #RSS #Atom #Feeds #sfeed 
 ```
 ---

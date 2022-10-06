@@ -1,7 +1,6 @@
 # [WIP] [Guide] Why you should #DeleteFacebook and how to do it!  
 
 ```
-Date-published: 2022-10-02-04x0
 Tags: #IRC #Chat #SocialMedia #kirc 
 ```
 ---
