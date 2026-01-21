@@ -1,6 +1,7 @@
 # ===FOLDER===
 source/
 .unreleased/
+.others/
 
 # ===OTHERS===
 *.un~
